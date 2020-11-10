@@ -11,7 +11,8 @@ What's new?
 Next release
 ============
 
-- Supply provider=“ALL” to :ref:`INSEE <INSEE>` structure queries by default (:issue:`21`, :pull:`22`)
+- Add a :doc:`brief tutorial <howto/create>` on creating SDMX-ML messages from pure Python objects (:issue:`23`, :pull:`24`).
+- Supply provider=“ALL” to :ref:`INSEE <INSEE>` structure queries by default (:issue:`21`, :pull:`22`).
 
 v1.4.0 (2020-08-17)
 ===================
